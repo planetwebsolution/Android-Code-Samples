@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="Charts"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btn_pie"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Pie Chart" />
+
+    <Button
+        android:id="@+id/btn_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Bar Chart" />
+
+    <Button
+        android:id="@+id/btn_radar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Radar Chart" />
+
+    <Button
+        android:id="@+id/btn_signus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sinus Bar Chart" />
+
+    <Button
+        android:id="@+id/btn_line"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Line Chart" />
+
+</LinearLayout>
