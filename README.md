@@ -1,0 +1,1 @@
+These charts is a  easy to use chart library for Android, supporting line-chart, bar-chart,pie-chart,radar-charts (spider web)and sinus Bar-chart as well as scaling,marking the intersection point of x and y , selecting and animations. 
